@@ -13,13 +13,13 @@ Managing student data efficiently is essential in any academic environment. This
 
 ##  Features
 
-> Add new student with ID, name, and marks  
-> View all added student records in tabular format  
-> Update student details by entering their ID  
-> Delete a student by their ID  
-> Menu-driven interface with easy navigation  
-> Real-time data stored using ArrayList  
-> Follows core Java & OOP concepts  
+* Add new student with ID, name, and marks  
+* View all added student records in tabular format  
+* Update student details by entering their ID  
+* Delete a student by their ID  
+* Menu-driven interface with easy navigation  
+* Real-time data stored using ArrayList  
+* Follows core Java & OOP concepts  
 
 
 
@@ -89,7 +89,7 @@ The menu keeps showing again and again until the user selects option 5 (Exit).
 ##  Sample Console Flow
 
 
-=== Student Record Management System ===
+ Student Record Management System 
 1. Add Student
 2. View Students
 3. Update Student
@@ -108,4 +108,5 @@ Student Records:
 ID: 101, Name: Muskan, Marks: 95.0
 
  In the same way, you can also update and delete.
+
 
